@@ -1,0 +1,12 @@
+main
+	__CC2DW
+		____DoICP
+	update_levels
+		EEPROM_Read
+	setup_prog
+		blink_rele
+		ADC_Read
+			Delay_22us
+		EEPROM_Write
+	ADC_Read
+		Delay_22us
